@@ -1,0 +1,51 @@
+{
+  "extensionVersion": "1.5.2",
+  "fileName": "/workspace/wave_seven_segment.vcd",
+  "markerTime": null,
+  "altMarkerTime": null,
+  "displayTimeUnit": "ps",
+  "selectedSignal": null,
+  "zoomRatio": 0.006205201869581386,
+  "scrollLeft": 0,
+  "displayedSignals": [
+    {
+      "dataType": "netlist-variable",
+      "netlistId": 1,
+      "name": "wave_seven_segment.blank",
+      "numberFormat": "binary",
+      "colorIndex": 0,
+      "rowHeight": 1,
+      "verticalScale": 1,
+      "nameType": "fullPath",
+      "customName": "blank",
+      "renderType": "binary",
+      "valueLinkCommand": ""
+    },
+    {
+      "dataType": "netlist-variable",
+      "netlistId": 2,
+      "name": "wave_seven_segment.digit",
+      "numberFormat": "hexadecimal",
+      "colorIndex": 0,
+      "rowHeight": 1,
+      "verticalScale": 1,
+      "nameType": "fullPath",
+      "customName": "digit",
+      "renderType": "multiBit",
+      "valueLinkCommand": ""
+    },
+    {
+      "dataType": "netlist-variable",
+      "netlistId": 0,
+      "name": "wave_seven_segment.segments",
+      "numberFormat": "hexadecimal",
+      "colorIndex": 0,
+      "rowHeight": 1,
+      "verticalScale": 1,
+      "nameType": "fullPath",
+      "customName": "segments",
+      "renderType": "multiBit",
+      "valueLinkCommand": ""
+    }
+  ]
+}

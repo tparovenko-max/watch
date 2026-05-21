@@ -5,7 +5,7 @@ module wave_restartable_rate_generator;
   wire tick;
 
   restartable_rate_generator #(
-      .CYCLE_COUNT(5)
+      .CYCLE_COUNT(1)
   ) dut (
       .clk (clk),
       .run (run),
