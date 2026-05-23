@@ -35,6 +35,6 @@ module pwm_generator #(
       .count (count)
   );
 
-  assign pwm_out = (count < DUTY_CYCLES);
+  assign pwm_out = (count < CountWidth'(DUTY_CYCLES));
 
 endmodule
